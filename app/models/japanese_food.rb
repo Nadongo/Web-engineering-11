@@ -1,2 +1,2 @@
-class JapaneseFood < 
+class JapaneseFood < Food
 end
